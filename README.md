@@ -128,7 +128,7 @@ scripts/
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/yourusername/ai-system-monitor.git
+git clone https://github.com/yaksha04/ai-system-monitor.git
 cd ai-system-monitor
 
 2️⃣ Setup Environment
