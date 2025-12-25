@@ -1,0 +1,681 @@
+2025-10-05 05:20:18 - __main__ - INFO - Initializing AI System Monitor...
+2025-10-05 05:20:18 - __main__ - INFO - AI System Monitor initialized successfully
+2025-10-05 05:20:18 - __main__ - INFO - Starting monitoring loop...
+2025-10-05 05:20:19 - __main__ - INFO - Collecting initial data: 1/720
+2025-10-05 05:20:25 - __main__ - INFO - Collecting initial data: 2/720
+2025-10-05 05:20:31 - __main__ - INFO - Collecting initial data: 3/720
+2025-10-05 05:20:37 - __main__ - INFO - Collecting initial data: 4/720
+2025-10-05 05:20:43 - __main__ - INFO - Collecting initial data: 5/720
+2025-10-05 05:20:49 - __main__ - INFO - Collecting initial data: 6/720
+2025-10-05 05:20:55 - __main__ - INFO - Collecting initial data: 7/720
+2025-10-05 05:21:01 - __main__ - INFO - Collecting initial data: 8/720
+2025-10-05 05:21:07 - __main__ - INFO - Collecting initial data: 9/720
+2025-10-05 05:21:13 - __main__ - INFO - Collecting initial data: 10/720
+2025-10-05 05:21:19 - __main__ - INFO - Collecting initial data: 11/720
+2025-10-05 05:21:25 - __main__ - INFO - Collecting initial data: 12/720
+2025-10-05 05:21:31 - __main__ - INFO - Collecting initial data: 13/720
+2025-10-05 05:21:37 - __main__ - INFO - Collecting initial data: 14/720
+2025-10-05 05:21:43 - __main__ - INFO - Collecting initial data: 15/720
+2025-10-05 05:21:49 - __main__ - INFO - Collecting initial data: 16/720
+2025-10-05 05:21:55 - __main__ - INFO - Collecting initial data: 17/720
+2025-10-05 05:22:01 - __main__ - INFO - Collecting initial data: 18/720
+2025-10-05 05:22:07 - __main__ - INFO - Collecting initial data: 19/720
+2025-10-05 05:22:13 - __main__ - INFO - Collecting initial data: 20/720
+2025-10-05 05:22:19 - __main__ - INFO - Collecting initial data: 21/720
+2025-10-05 05:22:25 - __main__ - INFO - Collecting initial data: 22/720
+2025-10-05 05:22:31 - __main__ - INFO - Collecting initial data: 23/720
+2025-10-05 05:22:37 - __main__ - INFO - Collecting initial data: 24/720
+2025-10-05 05:22:43 - __main__ - INFO - Collecting initial data: 25/720
+2025-10-05 05:22:50 - __main__ - INFO - Collecting initial data: 26/720
+2025-10-05 05:22:56 - __main__ - INFO - Collecting initial data: 27/720
+2025-10-05 05:23:02 - __main__ - INFO - Collecting initial data: 28/720
+2025-10-05 05:23:08 - __main__ - INFO - Collecting initial data: 29/720
+2025-10-05 05:23:14 - __main__ - INFO - Collecting initial data: 30/720
+2025-10-05 05:23:20 - __main__ - INFO - Collecting initial data: 31/720
+2025-10-05 05:23:26 - __main__ - INFO - Collecting initial data: 32/720
+2025-10-05 05:23:32 - __main__ - INFO - Collecting initial data: 33/720
+2025-10-05 05:23:38 - __main__ - INFO - Collecting initial data: 34/720
+2025-10-05 05:23:44 - __main__ - INFO - Collecting initial data: 35/720
+2025-10-05 05:23:50 - __main__ - INFO - Collecting initial data: 36/720
+2025-10-05 05:23:56 - __main__ - INFO - Collecting initial data: 37/720
+2025-10-05 05:24:02 - __main__ - INFO - Collecting initial data: 38/720
+2025-10-05 05:24:08 - __main__ - INFO - Collecting initial data: 39/720
+2025-10-05 05:24:14 - __main__ - INFO - Collecting initial data: 40/720
+2025-10-05 05:24:20 - __main__ - INFO - Collecting initial data: 41/720
+2025-10-05 05:24:26 - __main__ - INFO - Collecting initial data: 42/720
+2025-10-05 05:24:32 - __main__ - INFO - Collecting initial data: 43/720
+2025-10-05 05:24:38 - __main__ - INFO - Collecting initial data: 44/720
+2025-10-05 05:24:44 - __main__ - INFO - Collecting initial data: 45/720
+2025-10-05 05:24:50 - __main__ - INFO - Collecting initial data: 46/720
+2025-10-05 05:24:56 - __main__ - INFO - Collecting initial data: 47/720
+2025-10-05 05:25:02 - __main__ - INFO - Collecting initial data: 48/720
+2025-10-05 05:25:08 - __main__ - INFO - Collecting initial data: 49/720
+2025-10-05 05:25:14 - __main__ - INFO - Collecting initial data: 50/720
+2025-10-05 05:25:20 - __main__ - INFO - Collecting initial data: 51/720
+2025-10-05 05:25:26 - __main__ - INFO - Collecting initial data: 52/720
+2025-10-05 05:25:32 - __main__ - INFO - Collecting initial data: 53/720
+2025-10-05 05:25:39 - __main__ - INFO - Collecting initial data: 54/720
+2025-10-05 05:25:45 - __main__ - INFO - Collecting initial data: 55/720
+2025-10-05 05:25:51 - __main__ - INFO - Collecting initial data: 56/720
+2025-10-05 05:25:57 - __main__ - INFO - Collecting initial data: 57/720
+2025-10-05 05:26:03 - __main__ - INFO - Collecting initial data: 58/720
+2025-10-05 05:26:09 - __main__ - INFO - Collecting initial data: 59/720
+2025-10-05 05:26:15 - __main__ - INFO - Collecting initial data: 60/720
+2025-10-05 05:26:21 - __main__ - INFO - Collecting initial data: 61/720
+2025-10-05 05:26:27 - __main__ - INFO - Collecting initial data: 62/720
+2025-10-05 05:26:33 - __main__ - INFO - Collecting initial data: 63/720
+2025-10-05 05:26:39 - __main__ - INFO - Collecting initial data: 64/720
+2025-10-05 05:26:45 - __main__ - INFO - Collecting initial data: 65/720
+2025-10-05 05:26:51 - __main__ - INFO - Collecting initial data: 66/720
+2025-10-05 05:26:57 - __main__ - INFO - Collecting initial data: 67/720
+2025-10-05 05:27:03 - __main__ - INFO - Collecting initial data: 68/720
+2025-10-05 05:27:09 - __main__ - INFO - Collecting initial data: 69/720
+2025-10-05 05:27:15 - __main__ - INFO - Collecting initial data: 70/720
+2025-10-05 05:27:21 - __main__ - INFO - Collecting initial data: 71/720
+2025-10-05 05:27:27 - __main__ - INFO - Collecting initial data: 72/720
+2025-10-05 05:27:33 - __main__ - INFO - Collecting initial data: 73/720
+2025-10-05 05:27:39 - __main__ - INFO - Collecting initial data: 74/720
+2025-10-05 05:27:45 - __main__ - INFO - Collecting initial data: 75/720
+2025-10-05 05:27:51 - __main__ - INFO - Collecting initial data: 76/720
+2025-10-05 05:27:57 - __main__ - INFO - Collecting initial data: 77/720
+2025-10-05 05:28:03 - __main__ - INFO - Collecting initial data: 78/720
+2025-10-05 05:28:09 - __main__ - INFO - Collecting initial data: 79/720
+2025-10-05 05:28:15 - __main__ - INFO - Collecting initial data: 80/720
+2025-10-05 05:28:21 - __main__ - INFO - Collecting initial data: 81/720
+2025-10-05 05:28:28 - __main__ - INFO - Collecting initial data: 82/720
+2025-10-05 05:28:34 - __main__ - INFO - Collecting initial data: 83/720
+2025-10-05 05:28:40 - __main__ - INFO - Collecting initial data: 84/720
+2025-10-05 05:28:46 - __main__ - INFO - Collecting initial data: 85/720
+2025-10-05 05:28:52 - __main__ - INFO - Collecting initial data: 86/720
+2025-10-05 05:28:58 - __main__ - INFO - Collecting initial data: 87/720
+2025-10-05 05:29:04 - __main__ - INFO - Collecting initial data: 88/720
+2025-10-05 05:29:10 - __main__ - INFO - Collecting initial data: 89/720
+2025-10-05 05:29:16 - __main__ - INFO - Collecting initial data: 90/720
+2025-10-05 05:29:22 - __main__ - INFO - Collecting initial data: 91/720
+2025-10-05 05:29:28 - __main__ - INFO - Collecting initial data: 92/720
+2025-10-05 05:29:34 - __main__ - INFO - Collecting initial data: 93/720
+2025-10-05 05:29:40 - __main__ - INFO - Collecting initial data: 94/720
+2025-10-05 05:29:46 - __main__ - INFO - Collecting initial data: 95/720
+2025-10-05 05:29:52 - __main__ - INFO - Collecting initial data: 96/720
+2025-10-05 05:29:58 - __main__ - INFO - Collecting initial data: 97/720
+2025-10-05 05:30:04 - __main__ - INFO - Collecting initial data: 98/720
+2025-10-05 05:30:10 - __main__ - INFO - Collecting initial data: 99/720
+2025-10-05 05:30:16 - __main__ - INFO - Collecting initial data: 100/720
+2025-10-05 05:30:22 - __main__ - INFO - Collecting initial data: 101/720
+2025-10-05 05:30:28 - __main__ - INFO - Collecting initial data: 102/720
+2025-10-05 05:30:34 - __main__ - INFO - Collecting initial data: 103/720
+2025-10-05 05:30:40 - __main__ - INFO - Collecting initial data: 104/720
+2025-10-05 05:30:46 - __main__ - INFO - Collecting initial data: 105/720
+2025-10-05 05:30:52 - __main__ - INFO - Collecting initial data: 106/720
+2025-10-05 05:30:58 - __main__ - INFO - Collecting initial data: 107/720
+2025-10-05 05:31:04 - __main__ - INFO - Collecting initial data: 108/720
+2025-10-05 05:31:11 - __main__ - INFO - Collecting initial data: 109/720
+2025-10-05 05:31:17 - __main__ - INFO - Collecting initial data: 110/720
+2025-10-05 05:31:23 - __main__ - INFO - Collecting initial data: 111/720
+2025-10-05 05:31:29 - __main__ - INFO - Collecting initial data: 112/720
+2025-10-05 05:31:35 - __main__ - INFO - Collecting initial data: 113/720
+2025-10-05 05:31:41 - __main__ - INFO - Collecting initial data: 114/720
+2025-10-05 05:31:47 - __main__ - INFO - Collecting initial data: 115/720
+2025-10-05 05:31:53 - __main__ - INFO - Collecting initial data: 116/720
+2025-10-05 05:31:59 - __main__ - INFO - Collecting initial data: 117/720
+2025-10-05 05:32:05 - __main__ - INFO - Collecting initial data: 118/720
+2025-10-05 05:32:11 - __main__ - INFO - Collecting initial data: 119/720
+2025-10-05 05:32:17 - __main__ - INFO - Collecting initial data: 120/720
+2025-10-05 05:32:23 - __main__ - INFO - Collecting initial data: 121/720
+2025-10-05 05:32:29 - __main__ - INFO - Collecting initial data: 122/720
+2025-10-05 05:32:35 - __main__ - INFO - Collecting initial data: 123/720
+2025-10-05 05:32:41 - __main__ - INFO - Collecting initial data: 124/720
+2025-10-05 05:32:47 - __main__ - INFO - Collecting initial data: 125/720
+2025-10-05 05:32:53 - __main__ - INFO - Collecting initial data: 126/720
+2025-10-05 05:32:59 - __main__ - INFO - Collecting initial data: 127/720
+2025-10-05 05:33:05 - __main__ - INFO - Collecting initial data: 128/720
+2025-10-05 05:33:11 - __main__ - INFO - Collecting initial data: 129/720
+2025-10-05 05:33:17 - __main__ - INFO - Collecting initial data: 130/720
+2025-10-05 05:33:23 - __main__ - INFO - Collecting initial data: 131/720
+2025-10-05 05:33:29 - __main__ - INFO - Collecting initial data: 132/720
+2025-10-05 05:33:35 - __main__ - INFO - Collecting initial data: 133/720
+2025-10-05 05:33:41 - __main__ - INFO - Collecting initial data: 134/720
+2025-10-05 05:33:47 - __main__ - INFO - Collecting initial data: 135/720
+2025-10-05 05:33:54 - __main__ - INFO - Collecting initial data: 136/720
+2025-10-05 05:34:00 - __main__ - INFO - Collecting initial data: 137/720
+2025-10-05 05:34:06 - __main__ - INFO - Collecting initial data: 138/720
+2025-10-05 05:34:12 - __main__ - INFO - Collecting initial data: 139/720
+2025-10-05 05:34:18 - __main__ - INFO - Collecting initial data: 140/720
+2025-10-05 05:34:24 - __main__ - INFO - Collecting initial data: 141/720
+2025-10-05 05:34:30 - __main__ - INFO - Collecting initial data: 142/720
+2025-10-05 05:34:36 - __main__ - INFO - Collecting initial data: 143/720
+2025-10-05 05:34:42 - __main__ - INFO - Collecting initial data: 144/720
+2025-10-05 05:34:48 - __main__ - INFO - Collecting initial data: 145/720
+2025-10-05 05:34:54 - __main__ - INFO - Collecting initial data: 146/720
+2025-10-05 05:35:00 - __main__ - INFO - Collecting initial data: 147/720
+2025-10-05 05:35:06 - __main__ - INFO - Collecting initial data: 148/720
+2025-10-05 05:35:12 - __main__ - INFO - Collecting initial data: 149/720
+2025-10-05 05:35:18 - __main__ - INFO - Collecting initial data: 150/720
+2025-10-05 05:35:24 - __main__ - INFO - Collecting initial data: 151/720
+2025-10-05 05:35:30 - __main__ - INFO - Collecting initial data: 152/720
+2025-10-05 05:35:36 - __main__ - INFO - Collecting initial data: 153/720
+2025-10-05 05:35:42 - __main__ - INFO - Collecting initial data: 154/720
+2025-10-05 05:35:48 - __main__ - INFO - Collecting initial data: 155/720
+2025-10-05 05:35:54 - __main__ - INFO - Collecting initial data: 156/720
+2025-10-05 05:36:00 - __main__ - INFO - Collecting initial data: 157/720
+2025-10-05 05:36:06 - __main__ - INFO - Collecting initial data: 158/720
+2025-10-05 05:36:12 - __main__ - INFO - Collecting initial data: 159/720
+2025-10-05 05:36:18 - __main__ - INFO - Collecting initial data: 160/720
+2025-10-05 05:36:25 - __main__ - INFO - Collecting initial data: 161/720
+2025-10-05 05:36:31 - __main__ - INFO - Collecting initial data: 162/720
+2025-10-05 05:36:37 - __main__ - INFO - Collecting initial data: 163/720
+2025-10-05 05:36:43 - __main__ - INFO - Collecting initial data: 164/720
+2025-10-05 05:36:49 - __main__ - INFO - Collecting initial data: 165/720
+2025-10-05 05:36:55 - __main__ - INFO - Collecting initial data: 166/720
+2025-10-05 05:37:01 - __main__ - INFO - Collecting initial data: 167/720
+2025-10-05 05:37:07 - __main__ - INFO - Collecting initial data: 168/720
+2025-10-05 05:37:13 - __main__ - INFO - Collecting initial data: 169/720
+2025-10-05 05:37:19 - __main__ - INFO - Collecting initial data: 170/720
+2025-10-05 05:37:25 - __main__ - INFO - Collecting initial data: 171/720
+2025-10-05 05:37:31 - __main__ - INFO - Collecting initial data: 172/720
+2025-10-05 05:37:37 - __main__ - INFO - Collecting initial data: 173/720
+2025-10-05 05:37:43 - __main__ - INFO - Collecting initial data: 174/720
+2025-10-05 05:37:49 - __main__ - INFO - Collecting initial data: 175/720
+2025-10-05 05:37:55 - __main__ - INFO - Collecting initial data: 176/720
+2025-10-05 05:38:01 - __main__ - INFO - Collecting initial data: 177/720
+2025-10-05 05:38:07 - __main__ - INFO - Collecting initial data: 178/720
+2025-10-05 05:38:13 - __main__ - INFO - Collecting initial data: 179/720
+2025-10-05 05:38:19 - __main__ - INFO - Collecting initial data: 180/720
+2025-10-05 05:38:25 - __main__ - INFO - Collecting initial data: 181/720
+2025-10-05 05:38:31 - __main__ - INFO - Collecting initial data: 182/720
+2025-10-05 05:38:37 - __main__ - INFO - Collecting initial data: 183/720
+2025-10-05 05:38:43 - __main__ - INFO - Collecting initial data: 184/720
+2025-10-05 05:38:49 - __main__ - INFO - Collecting initial data: 185/720
+2025-10-05 05:38:55 - __main__ - INFO - Collecting initial data: 186/720
+2025-10-05 05:39:02 - __main__ - INFO - Collecting initial data: 187/720
+2025-10-05 05:39:08 - __main__ - INFO - Collecting initial data: 188/720
+2025-10-05 05:39:14 - __main__ - INFO - Collecting initial data: 189/720
+2025-10-05 05:39:20 - __main__ - INFO - Collecting initial data: 190/720
+2025-10-05 05:39:26 - __main__ - INFO - Collecting initial data: 191/720
+2025-10-05 05:39:32 - __main__ - INFO - Collecting initial data: 192/720
+2025-10-05 05:39:38 - __main__ - INFO - Collecting initial data: 193/720
+2025-10-05 05:39:44 - __main__ - INFO - Collecting initial data: 194/720
+2025-10-05 05:39:50 - __main__ - INFO - Collecting initial data: 195/720
+2025-10-05 05:39:56 - __main__ - INFO - Collecting initial data: 196/720
+2025-10-05 05:40:02 - __main__ - INFO - Collecting initial data: 197/720
+2025-10-05 05:40:08 - __main__ - INFO - Collecting initial data: 198/720
+2025-10-05 05:40:14 - __main__ - INFO - Collecting initial data: 199/720
+2025-10-05 05:40:20 - __main__ - INFO - Collecting initial data: 200/720
+2025-10-05 05:40:26 - __main__ - INFO - Collecting initial data: 201/720
+2025-10-05 05:40:32 - __main__ - INFO - Collecting initial data: 202/720
+2025-10-05 05:40:38 - __main__ - INFO - Collecting initial data: 203/720
+2025-10-05 05:40:44 - __main__ - INFO - Collecting initial data: 204/720
+2025-10-05 05:40:50 - __main__ - INFO - Collecting initial data: 205/720
+2025-10-05 05:40:56 - __main__ - INFO - Collecting initial data: 206/720
+2025-10-05 05:41:02 - __main__ - INFO - Collecting initial data: 207/720
+2025-10-05 05:41:08 - __main__ - INFO - Collecting initial data: 208/720
+2025-10-05 05:41:14 - __main__ - INFO - Collecting initial data: 209/720
+2025-10-05 05:41:20 - __main__ - INFO - Collecting initial data: 210/720
+2025-10-05 05:41:27 - __main__ - INFO - Collecting initial data: 211/720
+2025-10-05 05:41:33 - __main__ - INFO - Collecting initial data: 212/720
+2025-10-05 05:41:39 - __main__ - INFO - Collecting initial data: 213/720
+2025-10-05 05:41:45 - __main__ - INFO - Collecting initial data: 214/720
+2025-10-05 05:41:51 - __main__ - INFO - Collecting initial data: 215/720
+2025-10-05 05:41:57 - __main__ - INFO - Collecting initial data: 216/720
+2025-10-05 05:42:03 - __main__ - INFO - Collecting initial data: 217/720
+2025-10-05 05:42:09 - __main__ - INFO - Collecting initial data: 218/720
+2025-10-05 05:42:15 - __main__ - INFO - Collecting initial data: 219/720
+2025-10-05 05:42:21 - __main__ - INFO - Collecting initial data: 220/720
+2025-10-05 05:42:27 - __main__ - INFO - Collecting initial data: 221/720
+2025-10-05 05:42:33 - __main__ - INFO - Collecting initial data: 222/720
+2025-10-05 05:42:39 - __main__ - INFO - Collecting initial data: 223/720
+2025-10-05 05:42:45 - __main__ - INFO - Collecting initial data: 224/720
+2025-10-05 05:42:51 - __main__ - INFO - Collecting initial data: 225/720
+2025-10-05 05:42:57 - __main__ - INFO - Collecting initial data: 226/720
+2025-10-05 05:43:03 - __main__ - INFO - Collecting initial data: 227/720
+2025-10-05 05:43:09 - __main__ - INFO - Collecting initial data: 228/720
+2025-10-05 05:43:15 - __main__ - INFO - Collecting initial data: 229/720
+2025-10-05 05:43:21 - __main__ - INFO - Collecting initial data: 230/720
+2025-10-05 05:43:27 - __main__ - INFO - Collecting initial data: 231/720
+2025-10-05 05:43:34 - __main__ - INFO - Collecting initial data: 232/720
+2025-10-05 05:43:40 - __main__ - INFO - Collecting initial data: 233/720
+2025-10-05 05:43:46 - __main__ - INFO - Collecting initial data: 234/720
+2025-10-05 05:43:52 - __main__ - INFO - Collecting initial data: 235/720
+2025-10-05 05:43:58 - __main__ - INFO - Collecting initial data: 236/720
+2025-10-05 05:44:04 - __main__ - INFO - Collecting initial data: 237/720
+2025-10-05 05:44:10 - __main__ - INFO - Collecting initial data: 238/720
+2025-10-05 05:44:16 - __main__ - INFO - Collecting initial data: 239/720
+2025-10-05 05:44:22 - __main__ - INFO - Collecting initial data: 240/720
+2025-10-05 05:44:28 - __main__ - INFO - Collecting initial data: 241/720
+2025-10-05 05:44:34 - __main__ - INFO - Collecting initial data: 242/720
+2025-10-05 05:44:40 - __main__ - INFO - Collecting initial data: 243/720
+2025-10-05 05:44:46 - __main__ - INFO - Collecting initial data: 244/720
+2025-10-05 05:44:52 - __main__ - INFO - Collecting initial data: 245/720
+2025-10-05 05:44:58 - __main__ - INFO - Collecting initial data: 246/720
+2025-10-05 05:45:04 - __main__ - INFO - Collecting initial data: 247/720
+2025-10-05 05:45:10 - __main__ - INFO - Collecting initial data: 248/720
+2025-10-05 05:45:16 - __main__ - INFO - Collecting initial data: 249/720
+2025-10-05 05:45:22 - __main__ - INFO - Collecting initial data: 250/720
+2025-10-05 05:45:29 - __main__ - INFO - Collecting initial data: 251/720
+2025-10-05 05:45:35 - __main__ - INFO - Collecting initial data: 252/720
+2025-10-05 05:45:41 - __main__ - INFO - Collecting initial data: 253/720
+2025-10-05 05:45:47 - __main__ - INFO - Collecting initial data: 254/720
+2025-10-05 05:45:53 - __main__ - INFO - Collecting initial data: 255/720
+2025-10-05 05:45:59 - __main__ - INFO - Collecting initial data: 256/720
+2025-10-05 05:46:05 - __main__ - INFO - Collecting initial data: 257/720
+2025-10-05 05:46:11 - __main__ - INFO - Collecting initial data: 258/720
+2025-10-05 05:46:17 - __main__ - INFO - Collecting initial data: 259/720
+2025-10-05 05:46:23 - __main__ - INFO - Collecting initial data: 260/720
+2025-10-05 05:46:29 - __main__ - INFO - Collecting initial data: 261/720
+2025-10-05 05:46:35 - __main__ - INFO - Collecting initial data: 262/720
+2025-10-05 05:46:41 - __main__ - INFO - Collecting initial data: 263/720
+2025-10-05 05:46:47 - __main__ - INFO - Collecting initial data: 264/720
+2025-10-05 05:46:53 - __main__ - INFO - Collecting initial data: 265/720
+2025-10-05 05:46:59 - __main__ - INFO - Collecting initial data: 266/720
+2025-10-05 05:47:05 - __main__ - INFO - Collecting initial data: 267/720
+2025-10-05 05:47:11 - __main__ - INFO - Collecting initial data: 268/720
+2025-10-05 05:47:17 - __main__ - INFO - Collecting initial data: 269/720
+2025-10-05 05:47:23 - __main__ - INFO - Collecting initial data: 270/720
+2025-10-05 05:47:30 - __main__ - INFO - Collecting initial data: 271/720
+2025-10-05 05:47:36 - __main__ - INFO - Collecting initial data: 272/720
+2025-10-05 05:47:42 - __main__ - INFO - Collecting initial data: 273/720
+2025-10-05 05:47:48 - __main__ - INFO - Collecting initial data: 274/720
+2025-10-05 05:47:54 - __main__ - INFO - Collecting initial data: 275/720
+2025-10-05 05:48:00 - __main__ - INFO - Collecting initial data: 276/720
+2025-10-05 05:48:06 - __main__ - INFO - Collecting initial data: 277/720
+2025-10-05 05:48:12 - __main__ - INFO - Collecting initial data: 278/720
+2025-10-05 05:48:18 - __main__ - INFO - Collecting initial data: 279/720
+2025-10-05 05:48:24 - __main__ - INFO - Collecting initial data: 280/720
+2025-10-05 05:48:30 - __main__ - INFO - Collecting initial data: 281/720
+2025-10-05 05:48:36 - __main__ - INFO - Collecting initial data: 282/720
+2025-10-05 05:48:42 - __main__ - INFO - Collecting initial data: 283/720
+2025-10-05 05:48:48 - __main__ - INFO - Collecting initial data: 284/720
+2025-10-05 05:48:54 - __main__ - INFO - Collecting initial data: 285/720
+2025-10-05 05:49:00 - __main__ - INFO - Collecting initial data: 286/720
+2025-10-05 05:49:06 - __main__ - INFO - Collecting initial data: 287/720
+2025-10-05 05:49:12 - __main__ - INFO - Collecting initial data: 288/720
+2025-10-05 05:49:18 - __main__ - INFO - Collecting initial data: 289/720
+2025-10-05 05:49:24 - __main__ - INFO - Collecting initial data: 290/720
+2025-10-05 05:49:30 - __main__ - INFO - Collecting initial data: 291/720
+2025-10-05 05:49:36 - __main__ - INFO - Collecting initial data: 292/720
+2025-10-05 05:49:43 - __main__ - INFO - Collecting initial data: 293/720
+2025-10-05 05:49:49 - __main__ - INFO - Collecting initial data: 294/720
+2025-10-05 05:49:55 - __main__ - INFO - Collecting initial data: 295/720
+2025-10-05 05:50:01 - __main__ - INFO - Collecting initial data: 296/720
+2025-10-05 05:50:07 - __main__ - INFO - Collecting initial data: 297/720
+2025-10-05 05:50:13 - __main__ - INFO - Collecting initial data: 298/720
+2025-10-05 05:50:19 - __main__ - INFO - Collecting initial data: 299/720
+2025-10-05 05:50:25 - __main__ - INFO - Collecting initial data: 300/720
+2025-10-05 05:50:31 - __main__ - INFO - Collecting initial data: 301/720
+2025-10-05 05:50:37 - __main__ - INFO - Collecting initial data: 302/720
+2025-10-05 05:50:43 - __main__ - INFO - Collecting initial data: 303/720
+2025-10-05 05:50:49 - __main__ - INFO - Collecting initial data: 304/720
+2025-10-05 05:50:55 - __main__ - INFO - Collecting initial data: 305/720
+2025-10-05 05:51:01 - __main__ - INFO - Collecting initial data: 306/720
+2025-10-05 05:51:07 - __main__ - INFO - Collecting initial data: 307/720
+2025-10-05 05:51:13 - __main__ - INFO - Collecting initial data: 308/720
+2025-10-05 05:51:19 - __main__ - INFO - Collecting initial data: 309/720
+2025-10-05 05:51:25 - __main__ - INFO - Collecting initial data: 310/720
+2025-10-05 05:51:31 - __main__ - INFO - Collecting initial data: 311/720
+2025-10-05 05:51:37 - __main__ - INFO - Collecting initial data: 312/720
+2025-10-05 05:51:43 - __main__ - INFO - Collecting initial data: 313/720
+2025-10-05 05:51:50 - __main__ - INFO - Collecting initial data: 314/720
+2025-10-05 05:51:56 - __main__ - INFO - Collecting initial data: 315/720
+2025-10-05 05:52:02 - __main__ - INFO - Collecting initial data: 316/720
+2025-10-05 05:52:08 - __main__ - INFO - Collecting initial data: 317/720
+2025-10-05 05:52:14 - __main__ - INFO - Collecting initial data: 318/720
+2025-10-05 05:52:20 - __main__ - INFO - Collecting initial data: 319/720
+2025-10-05 05:52:26 - __main__ - INFO - Collecting initial data: 320/720
+2025-10-05 05:52:32 - __main__ - INFO - Collecting initial data: 321/720
+2025-10-05 05:52:38 - __main__ - INFO - Collecting initial data: 322/720
+2025-10-05 05:52:44 - __main__ - INFO - Collecting initial data: 323/720
+2025-10-05 05:52:50 - __main__ - INFO - Collecting initial data: 324/720
+2025-10-05 05:52:56 - __main__ - INFO - Collecting initial data: 325/720
+2025-10-05 05:53:02 - __main__ - INFO - Collecting initial data: 326/720
+2025-10-05 05:53:08 - __main__ - INFO - Collecting initial data: 327/720
+2025-10-05 05:53:14 - __main__ - INFO - Collecting initial data: 328/720
+2025-10-05 05:53:20 - __main__ - INFO - Collecting initial data: 329/720
+2025-10-05 05:53:26 - __main__ - INFO - Collecting initial data: 330/720
+2025-10-05 05:53:33 - __main__ - INFO - Collecting initial data: 331/720
+2025-10-05 05:53:39 - __main__ - INFO - Collecting initial data: 332/720
+2025-10-05 05:53:45 - __main__ - INFO - Collecting initial data: 333/720
+2025-10-05 05:53:51 - __main__ - INFO - Collecting initial data: 334/720
+2025-10-05 05:53:57 - __main__ - INFO - Collecting initial data: 335/720
+2025-10-05 05:54:03 - __main__ - INFO - Collecting initial data: 336/720
+2025-10-05 05:54:09 - __main__ - INFO - Collecting initial data: 337/720
+2025-10-05 05:54:15 - __main__ - INFO - Collecting initial data: 338/720
+2025-10-05 05:54:21 - __main__ - INFO - Collecting initial data: 339/720
+2025-10-05 05:54:27 - __main__ - INFO - Collecting initial data: 340/720
+2025-10-05 05:54:33 - __main__ - INFO - Collecting initial data: 341/720
+2025-10-05 05:54:39 - __main__ - INFO - Collecting initial data: 342/720
+2025-10-05 05:54:45 - __main__ - INFO - Collecting initial data: 343/720
+2025-10-05 05:54:51 - __main__ - INFO - Collecting initial data: 344/720
+2025-10-05 05:54:57 - __main__ - INFO - Collecting initial data: 345/720
+2025-10-05 05:55:03 - __main__ - INFO - Collecting initial data: 346/720
+2025-10-05 05:55:09 - __main__ - INFO - Collecting initial data: 347/720
+2025-10-05 05:55:15 - __main__ - INFO - Collecting initial data: 348/720
+2025-10-05 05:55:22 - __main__ - INFO - Collecting initial data: 349/720
+2025-10-05 05:55:28 - __main__ - INFO - Collecting initial data: 350/720
+2025-10-05 05:55:34 - __main__ - INFO - Collecting initial data: 351/720
+2025-10-05 05:55:40 - __main__ - INFO - Collecting initial data: 352/720
+2025-10-05 05:55:46 - __main__ - INFO - Collecting initial data: 353/720
+2025-10-05 05:55:52 - __main__ - INFO - Collecting initial data: 354/720
+2025-10-05 05:55:58 - __main__ - INFO - Collecting initial data: 355/720
+2025-10-05 05:56:04 - __main__ - INFO - Collecting initial data: 356/720
+2025-10-05 05:56:10 - __main__ - INFO - Collecting initial data: 357/720
+2025-10-05 05:56:16 - __main__ - INFO - Collecting initial data: 358/720
+2025-10-05 05:56:22 - __main__ - INFO - Collecting initial data: 359/720
+2025-10-05 05:56:28 - __main__ - INFO - Collecting initial data: 360/720
+2025-10-05 05:56:34 - __main__ - INFO - Collecting initial data: 361/720
+2025-10-05 05:56:40 - __main__ - INFO - Collecting initial data: 362/720
+2025-10-05 05:56:46 - __main__ - INFO - Collecting initial data: 363/720
+2025-10-05 05:56:52 - __main__ - INFO - Collecting initial data: 364/720
+2025-10-05 05:56:58 - __main__ - INFO - Collecting initial data: 365/720
+2025-10-05 05:57:04 - __main__ - INFO - Collecting initial data: 366/720
+2025-10-05 05:57:10 - __main__ - INFO - Collecting initial data: 367/720
+2025-10-05 05:57:16 - __main__ - INFO - Collecting initial data: 368/720
+2025-10-05 05:57:23 - __main__ - INFO - Collecting initial data: 369/720
+2025-10-05 05:57:29 - __main__ - INFO - Collecting initial data: 370/720
+2025-10-05 05:57:35 - __main__ - INFO - Collecting initial data: 371/720
+2025-10-05 05:57:41 - __main__ - INFO - Collecting initial data: 372/720
+2025-10-05 05:57:47 - __main__ - INFO - Collecting initial data: 373/720
+2025-10-05 05:57:53 - __main__ - INFO - Collecting initial data: 374/720
+2025-10-05 05:57:59 - __main__ - INFO - Collecting initial data: 375/720
+2025-10-05 05:58:05 - __main__ - INFO - Collecting initial data: 376/720
+2025-10-05 05:58:11 - __main__ - INFO - Collecting initial data: 377/720
+2025-10-05 05:58:17 - __main__ - INFO - Collecting initial data: 378/720
+2025-10-05 05:58:23 - __main__ - INFO - Collecting initial data: 379/720
+2025-10-05 05:58:29 - __main__ - INFO - Collecting initial data: 380/720
+2025-10-05 05:58:35 - __main__ - INFO - Collecting initial data: 381/720
+2025-10-05 05:58:41 - __main__ - INFO - Collecting initial data: 382/720
+2025-10-05 05:58:47 - __main__ - INFO - Collecting initial data: 383/720
+2025-10-05 05:58:53 - __main__ - INFO - Collecting initial data: 384/720
+2025-10-05 05:58:59 - __main__ - INFO - Collecting initial data: 385/720
+2025-10-05 05:59:05 - __main__ - INFO - Collecting initial data: 386/720
+2025-10-05 05:59:12 - __main__ - INFO - Collecting initial data: 387/720
+2025-10-05 05:59:18 - __main__ - INFO - Collecting initial data: 388/720
+2025-10-05 05:59:24 - __main__ - INFO - Collecting initial data: 389/720
+2025-10-05 05:59:30 - __main__ - INFO - Collecting initial data: 390/720
+2025-10-05 05:59:36 - __main__ - INFO - Collecting initial data: 391/720
+2025-10-05 05:59:42 - __main__ - INFO - Collecting initial data: 392/720
+2025-10-05 05:59:48 - __main__ - INFO - Collecting initial data: 393/720
+2025-10-05 05:59:54 - __main__ - INFO - Collecting initial data: 394/720
+2025-10-05 06:00:00 - __main__ - INFO - Collecting initial data: 395/720
+2025-10-05 06:00:06 - __main__ - INFO - Collecting initial data: 396/720
+2025-10-05 06:00:12 - __main__ - INFO - Collecting initial data: 397/720
+2025-10-05 06:00:18 - __main__ - INFO - Collecting initial data: 398/720
+2025-10-05 06:00:24 - __main__ - INFO - Collecting initial data: 399/720
+2025-10-05 06:00:30 - __main__ - INFO - Collecting initial data: 400/720
+2025-10-05 06:00:36 - __main__ - INFO - Collecting initial data: 401/720
+2025-10-05 06:00:43 - __main__ - INFO - Collecting initial data: 402/720
+2025-10-05 06:00:49 - __main__ - INFO - Collecting initial data: 403/720
+2025-10-05 06:00:55 - __main__ - INFO - Collecting initial data: 404/720
+2025-10-05 06:00:59 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-10-05 06:01:00 - __main__ - INFO - Shutting down AI System Monitor...
+2025-10-05 06:01:00 - __main__ - INFO - Final statistics:
+2025-10-05 06:01:00 - __main__ - INFO -   - Total iterations: 404
+2025-10-05 06:01:00 - __main__ - INFO -   - Anomalies detected: 0
+2025-10-05 06:01:00 - __main__ - INFO -   - Healing actions performed: 0
+2025-10-05 06:01:00 - __main__ - INFO - Goodbye! 👋
+2025-10-05 06:12:33 - __main__ - INFO - Initializing AI System Monitor...
+2025-10-05 06:12:33 - monitoring.system_monitor - INFO - Loaded 404 existing metrics from data/metrics/metrics.csv
+2025-10-05 06:12:33 - __main__ - INFO - AI System Monitor initialized successfully
+2025-10-05 06:12:33 - __main__ - INFO - Starting monitoring loop...
+2025-10-05 06:12:35 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:12:35 - __main__ - INFO - Collecting initial data: 405/720
+2025-10-05 06:12:41 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:12:41 - __main__ - INFO - Collecting initial data: 406/720
+2025-10-05 06:12:47 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:12:47 - __main__ - INFO - Collecting initial data: 407/720
+2025-10-05 06:12:53 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:12:53 - __main__ - INFO - Collecting initial data: 408/720
+2025-10-05 06:12:59 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:12:59 - __main__ - INFO - Collecting initial data: 409/720
+2025-10-05 06:13:05 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:05 - __main__ - INFO - Collecting initial data: 410/720
+2025-10-05 06:13:11 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:11 - __main__ - INFO - Collecting initial data: 411/720
+2025-10-05 06:13:17 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:17 - __main__ - INFO - Collecting initial data: 412/720
+2025-10-05 06:13:23 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:23 - __main__ - INFO - Collecting initial data: 413/720
+2025-10-05 06:13:29 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:29 - __main__ - INFO - Collecting initial data: 414/720
+2025-10-05 06:13:35 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:35 - __main__ - INFO - Collecting initial data: 415/720
+2025-10-05 06:13:41 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:41 - __main__ - INFO - Collecting initial data: 416/720
+2025-10-05 06:13:47 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:47 - __main__ - INFO - Collecting initial data: 417/720
+2025-10-05 06:13:53 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:53 - __main__ - INFO - Collecting initial data: 418/720
+2025-10-05 06:13:59 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:13:59 - __main__ - INFO - Collecting initial data: 419/720
+2025-10-05 06:14:05 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:14:05 - __main__ - INFO - Collecting initial data: 420/720
+2025-10-05 06:14:11 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:14:11 - __main__ - INFO - Collecting initial data: 421/720
+2025-10-05 06:14:17 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:14:17 - __main__ - INFO - Collecting initial data: 422/720
+2025-10-05 06:14:24 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:14:24 - __main__ - INFO - Collecting initial data: 423/720
+2025-10-05 06:14:30 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:14:30 - __main__ - INFO - Collecting initial data: 424/720
+2025-10-05 06:14:33 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-10-05 06:14:35 - __main__ - INFO - Shutting down AI System Monitor...
+2025-10-05 06:14:35 - __main__ - INFO - Final statistics:
+2025-10-05 06:14:35 - __main__ - INFO -   - Total iterations: 20
+2025-10-05 06:14:35 - __main__ - INFO -   - Anomalies detected: 0
+2025-10-05 06:14:35 - __main__ - INFO -   - Healing actions performed: 0
+2025-10-05 06:14:35 - __main__ - INFO - Goodbye! 👋
+2025-10-05 06:15:38 - __main__ - INFO - Initializing AI System Monitor...
+2025-10-05 06:15:38 - monitoring.system_monitor - INFO - Loaded 424 existing metrics from data/metrics/metrics.csv
+2025-10-05 06:15:38 - __main__ - INFO - AI System Monitor initialized successfully
+2025-10-05 06:15:38 - __main__ - INFO - Starting monitoring loop...
+2025-10-05 06:15:39 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:15:39 - __main__ - INFO - Collecting initial data: 425/720
+2025-10-05 06:15:45 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:15:45 - __main__ - INFO - Collecting initial data: 426/720
+2025-10-05 06:15:51 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:15:51 - __main__ - INFO - Collecting initial data: 427/720
+2025-10-05 06:15:57 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:15:57 - __main__ - INFO - Collecting initial data: 428/720
+2025-10-05 06:16:03 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:03 - __main__ - INFO - Collecting initial data: 429/720
+2025-10-05 06:16:09 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:09 - __main__ - INFO - Collecting initial data: 430/720
+2025-10-05 06:16:15 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:15 - __main__ - INFO - Collecting initial data: 431/720
+2025-10-05 06:16:21 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:21 - __main__ - INFO - Collecting initial data: 432/720
+2025-10-05 06:16:27 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:27 - __main__ - INFO - Collecting initial data: 433/720
+2025-10-05 06:16:34 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:34 - __main__ - INFO - Collecting initial data: 434/720
+2025-10-05 06:16:40 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:40 - __main__ - INFO - Collecting initial data: 435/720
+2025-10-05 06:16:46 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:46 - __main__ - INFO - Collecting initial data: 436/720
+2025-10-05 06:16:52 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:52 - __main__ - INFO - Collecting initial data: 437/720
+2025-10-05 06:16:58 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:16:58 - __main__ - INFO - Collecting initial data: 438/720
+2025-10-05 06:17:04 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:04 - __main__ - INFO - Collecting initial data: 439/720
+2025-10-05 06:17:10 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:10 - __main__ - INFO - Collecting initial data: 440/720
+2025-10-05 06:17:16 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:16 - __main__ - INFO - Collecting initial data: 441/720
+2025-10-05 06:17:22 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:22 - __main__ - INFO - Collecting initial data: 442/720
+2025-10-05 06:17:28 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:28 - __main__ - INFO - Collecting initial data: 443/720
+2025-10-05 06:17:34 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:34 - __main__ - INFO - Collecting initial data: 444/720
+2025-10-05 06:17:40 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:40 - __main__ - INFO - Collecting initial data: 445/720
+2025-10-05 06:17:46 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:46 - __main__ - INFO - Collecting initial data: 446/720
+2025-10-05 06:17:52 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:52 - __main__ - INFO - Collecting initial data: 447/720
+2025-10-05 06:17:58 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:17:58 - __main__ - INFO - Collecting initial data: 448/720
+2025-10-05 06:18:04 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:18:04 - __main__ - INFO - Collecting initial data: 449/720
+2025-10-05 06:18:10 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:18:10 - __main__ - INFO - Collecting initial data: 450/720
+2025-10-05 06:18:17 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:18:17 - __main__ - INFO - Collecting initial data: 451/720
+2025-10-05 06:18:23 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:18:23 - __main__ - INFO - Collecting initial data: 452/720
+2025-10-05 06:18:29 - monitoring.system_monitor - ERROR - Error cleaning old metrics: time data "2025-10-05T06:12:33.983812" doesn't match format "%Y-%m-%d %H:%M:%S.%f", at position 404. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-10-05 06:18:29 - __main__ - INFO - Collecting initial data: 453/720
+2025-10-05 06:18:34 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-10-05 06:18:34 - __main__ - INFO - Shutting down AI System Monitor...
+2025-10-05 06:18:34 - __main__ - INFO - Final statistics:
+2025-10-05 06:18:34 - __main__ - INFO -   - Total iterations: 29
+2025-10-05 06:18:34 - __main__ - INFO -   - Anomalies detected: 0
+2025-10-05 06:18:34 - __main__ - INFO -   - Healing actions performed: 0
+2025-10-05 06:18:34 - __main__ - INFO - Goodbye! 👋

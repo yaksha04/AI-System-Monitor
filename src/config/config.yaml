@@ -1,0 +1,48 @@
+dashboard:
+  host: 0.0.0.0
+  port: 8501
+  refresh_interval_seconds: 5
+healing:
+  actions: {}
+  enabled: true
+  max_attempts: 3
+logging:
+  backup_count: 5
+  level: INFO
+  log_file: data/logs/system_monitor.log
+  log_to_file: true
+  max_file_size_mb: 100
+ml:
+  contamination: 0.1
+  features:
+  - cpu_percent
+  - memory_percent
+  - memory_available_mb
+  - disk_io_read_mb
+  - disk_io_write_mb
+  - network_sent_mb
+  - network_recv_mb
+  - process_count
+  - load_average_1min
+  - load_average_5min
+  model_type: isolation_forest
+  retrain_interval_hours: 6
+  training_window_minutes: 60
+monitoring:
+  critical_processes: []
+  interval_seconds: 5
+  retention_hours: 24
+  thresholds:
+    cpu_percent: 85
+    disk_percent: 85
+    memory_percent: 90
+notifications:
+  email:
+    enabled: false
+  enabled: false
+  slack:
+    enabled: false
+storage:
+  metrics_file: data/metrics/metrics.csv
+  model_file: data/models/anomaly_model.pkl
+  scaler_file: data/models/scaler.pkl

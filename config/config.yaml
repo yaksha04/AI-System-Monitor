@@ -1,0 +1,108 @@
+# AI System Monitor Configuration
+
+# Monitoring Settings
+monitoring:
+  interval_seconds: 5  # How often to collect metrics
+  retention_hours: 24  # How long to keep historical data
+  
+  # Thresholds for basic alerts
+  thresholds:
+    cpu_percent: 85
+    memory_percent: 90
+    disk_percent: 85
+    
+  # Processes to monitor specifically
+  critical_processes:
+    - nginx
+    - mysql
+    - postgresql
+    - docker
+    - apache2
+
+# Machine Learning Settings
+ml:
+  model_type: "isolation_forest"  # Options: isolation_forest, one_class_svm
+  contamination: 0.1  # Expected proportion of anomalies (10%)
+  training_window_minutes: 60  # Initial training period
+  retrain_interval_hours: 6  # How often to retrain the model
+  
+  # Feature engineering
+  features:
+    - cpu_percent
+    - memory_percent
+    - memory_available_mb
+    - disk_io_read_mb
+    - disk_io_write_mb
+    - network_sent_mb
+    - network_recv_mb
+    - process_count
+    - load_average_1min
+    - load_average_5min
+
+# Auto-Healing Settings
+healing:
+  enabled: true
+  max_attempts: 3  # Maximum healing attempts before alerting
+  
+  # Action definitions
+  actions:
+    high_cpu:
+      - type: "kill_process"
+        criteria: "cpu_percent > 90 and user_process"
+        
+    high_memory:
+      - type: "restart_service"
+        criteria: "memory_leak_detected"
+      - type: "clear_cache"
+        
+    disk_full:
+      - type: "clean_temp"
+        paths:
+          - "/tmp"
+          - "/var/tmp"
+      - type: "rotate_logs"
+        
+    service_down:
+      - type: "restart_service"
+      - type: "notify_admin"
+
+# Notification Settings
+notifications:
+  enabled: true
+  
+  # Email settings
+  email:
+    enabled: false
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+    from_email: "your-email@gmail.com"
+    to_emails:
+      - "admin@example.com"
+    password: "${EMAIL_PASSWORD}"  # Use environment variable
+    
+  # Slack settings
+  slack:
+    enabled: false
+    webhook_url: "${SLACK_WEBHOOK_URL}"  # Use environment variable
+    channel: "#system-alerts"
+
+# Dashboard Settings
+dashboard:
+  port: 8501
+  host: "0.0.0.0"
+  refresh_interval_seconds: 5
+  show_detailed_metrics: true
+
+# Logging Settings
+logging:
+  level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  log_to_file: true
+  log_file: "data/logs/system_monitor.log"
+  max_file_size_mb: 100
+  backup_count: 5
+
+# Data Storage
+storage:
+  metrics_file: "data/metrics/metrics.csv"
+  model_file: "data/models/anomaly_model.pkl"
+  scaler_file: "data/models/scaler.pkl"

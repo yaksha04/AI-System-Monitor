@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  # Main monitoring service
+  monitor:
+    build: .
+    container_name: ai-system-monitor
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - EMAIL_PASSWORD=${EMAIL_PASSWORD}
+      - SLACK_WEBHOOK_URL=${SLACK_WEBHOOK_URL}
+    command: python src/main.py
+    restart: unless-stopped
+    privileged: true
+    network_mode: host
+  
+  # Dashboard service
+  dashboard:
+    build: .
+    container_name: ai-system-dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: streamlit run dashboard.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+    depends_on:
+      - monitor
+
+volumes:
+  data:
+  config:

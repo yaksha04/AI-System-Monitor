@@ -1,0 +1,29 @@
+nohup: ignoring input
+
+    ╔═══════════════════════════════════════════════════════════╗
+    ║   AI-Powered Intelligent Linux System Monitor             ║
+    ║                  & Auto-Healer                            ║
+    ╚═══════════════════════════════════════════════════════════╝
+    
+Traceback (most recent call last):
+  File "/home/yaksha/ai-system-monitor/src/main.py", line 323, in <module>
+    main()
+  File "/home/yaksha/ai-system-monitor/src/main.py", line 318, in main
+    app = SystemMonitorApp()
+          ^^^^^^^^^^^^^^^^^^
+  File "/home/yaksha/ai-system-monitor/src/main.py", line 37, in __init__
+    self._setup_logging()
+  File "/home/yaksha/ai-system-monitor/src/main.py", line 163, in _setup_logging
+    file_handler = RotatingFileHandler(
+                   ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/logging/handlers.py", line 155, in __init__
+    BaseRotatingHandler.__init__(self, filename, mode, encoding=encoding,
+  File "/usr/lib/python3.12/logging/handlers.py", line 58, in __init__
+    logging.FileHandler.__init__(self, filename, mode=mode,
+  File "/usr/lib/python3.12/logging/__init__.py", line 1231, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/logging/__init__.py", line 1263, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/home/yaksha/ai-system-monitor/data/logs/system_monitor.log'
